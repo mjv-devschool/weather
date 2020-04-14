@@ -36,3 +36,12 @@ O objetivo do desafio é criar um projeto em Angular chamado “Painel do tempo�
 
 **API de consulta:**
 * https://www.weatherbit.io/api/weather-current
+
+**Trios**
+Diego Seccon + Jonei + Igor
+Renan Medeiros + Marcilio Caetano + Priscilla
+Vinicius + Caio + Raul
+Rafael + Nikolas + Lucas Alexandre
+Karol + Deivid + Renan Carvalho
+Mayke + Matheus + Erian
+Lucas Silva + Diego Minelli + Ingrid
